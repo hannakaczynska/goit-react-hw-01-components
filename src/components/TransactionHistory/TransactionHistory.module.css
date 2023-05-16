@@ -1,0 +1,17 @@
+.transactionHistory {
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tableTitles {
+    background-color: rgb(163, 245, 148);
+    height: 30px;
+}
+
+.tableBody {
+    background-color: white;
+    height: 25px;
+}
